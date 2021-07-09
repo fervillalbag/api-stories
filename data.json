@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "https://s1.gaming-cdn.com/images/products/7281/orig/fall-guys-ultimate-knockout-cover.jpg",
+    "title": "Nuevo invitado especial de Fall Guys",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pretium leo eu tellus molestie, et viverra sem aliquam. Donec ac auctor sem."
+  },
+  {
+    "id": 2,
+    "image": "https://site-cdn.givemesport.com/images/21/05/21/03ee0e602be22216f2738350f0f90c0b/1201.jpg",
+    "title": "Nueva skin de Cristiano Ronaldo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pretium leo eu tellus molestie, et viverra sem aliquam. Donec ac auctor sem."
+  },
+  {
+    "id": 3,
+    "image": "https://culturedvultures.com/wp-content/uploads/2021/06/Fortnite-Season-7-4.jpg",
+    "title": "Nuevos personajes en la temporada 7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pretium leo eu tellus molestie, et viverra sem aliquam. Donec ac auctor sem."
+  }
+]
